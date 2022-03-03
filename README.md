@@ -54,19 +54,11 @@ VM: OpenJDK 64-Bit Server VM by N/A
 
 Setup:
 
-Option 1:
-
 -Extract the apk file and send it to an android device.
 -Make sure the device has enough storage and provided with a stable internet connection.
 -Enable install apps from unknown sources temporarily(if needed).
 -Install the app and you are good to do!
 
-Option 2:
-
--Extract the University.zip file on your computer.
--Download and install android studio studio on your computer.
--Run android studio and choose open project(UniversityApp2).
--Run the project using emulator or connecting your android and using it as an emulator.
 
 Login:
 
